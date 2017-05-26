@@ -1,6 +1,4 @@
-
 import React, { Component } from 'react';
-import { Breadcrumb } from 'zent';
 import { connect } from 'react-redux';
 
 import './style.scss';
